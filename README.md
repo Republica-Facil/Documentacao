@@ -36,6 +36,6 @@ Diagramas que ilustram a arquitetura do sistema, o modelo de dados e os fluxos d
 
 O protótipo navegável da aplicação, mostrando o design das telas e a experiência do usuário.
 
-➡️ **[Visualizar o Protótipo em PDF](./prototipos/seu-prototipo.pdf)**
+➡️ **[Visualizar o Protótipo em PDF](./prototipos/Protótipo-republica-facil.pdf)**
 
 ---
