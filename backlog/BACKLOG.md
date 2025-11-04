@@ -61,8 +61,7 @@ eu quero poder adicionar um Morador à minha República,
 para que ele oficialmente passe a fazer parte do grupo.
 
 **Critérios de Aceite (AC):**
-- [ ] O Admin deve ter uma interface para buscar um usuário pelo **nome completo** ou **email**.  
-- [ ] O sistema deve validar se o email digitado existe.  
+- [ ] O Admin deve ter uma interface para cadastrar um morador pelo **nome completo**, **email** e **telefone**.  
 - [ ] O Admin deve receber mensagem de sucesso: *“Morador adicionado!”*.
 
 ---
