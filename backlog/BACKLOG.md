@@ -45,7 +45,6 @@ eu quero poder criar uma nova República informando nome e endereço,
 para que eu me torne o Administrador e possa começar a gerenciar nosso espaço.
 
 **Critérios de Aceite (AC):**
-- [ ] Tela exibida apenas para usuários que ainda não pertencem a nenhuma república.  
 - [ ] Formulário com campos **Nome da República** e **Endereço** (obrigatórios).  
 - [ ] Ao criar com sucesso:
   - [ ] Salvar a nova república no banco.  
