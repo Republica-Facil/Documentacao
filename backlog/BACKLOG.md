@@ -165,9 +165,9 @@ eu quero poder registrar a saída de um morador,
 para que o sistema o marque como inativo e o exclua de futuros rateios.
 
 **Critérios de Aceite (AC):**
-- [ ] Opção **Inativar** ou **Remover** morador na lista.  
-- [ ] Morador inativado é desassociado do quarto (**US-06**).  
-- [ ] Moradores inativos não participam de **novos rateios** (**US-07**).  
+- [ ] Opção **Remover** morador na lista.  
+- [ ] Morador removido é desassociado do quarto (**US-06**).  
+- [ ] Moradores removidos não participam de **novos rateios** (**US-07**).  
 - [ ] O **histórico financeiro** do morador é mantido.
 
 ---
