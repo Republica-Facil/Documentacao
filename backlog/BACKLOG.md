@@ -76,7 +76,7 @@ para que eu possa associar moradores e despesas específicas a eles.
   - [x] Criar novo quarto (informar **Número/Identificador**).  
   - [x] Listar todos os quartos.  
   - [x] Editar o número de um quarto.  
-  - [ ] Excluir quarto (apenas se **sem moradores**).  
+  - [x] Excluir quarto (apenas se **sem moradores**).  
 - [x] O número do quarto deve ser **único** dentro da república.
 
 ---
@@ -121,8 +121,8 @@ para acompanhar os **status**: *Pendente (laranja)*, *Atrasado (vermelho)* e *Pa
   - 🟠 Pendente → vencimento futuro  
   - 🔴 Atrasado → vencimento passado, não pago  
   - 🟢 Pago → já quitado  
-- [ ] Lista ordenada por **Data de Vencimento (ascendente)**.  
-- [ ] Despesas pagas devem ir para o **final da lista** ou em uma aba de **Histórico**.
+- [x] Lista ordenada por **Data de Vencimento (ascendente)**.  
+- [x] Despesas pagas devem ir para o **final da lista** ou em uma aba de **Histórico**.
 
 ---
 
@@ -165,7 +165,7 @@ para que o sistema o marque como inativo e o exclua de futuros rateios.
 - [x] Opção **Remover** morador na lista.  
 - [x] Morador removido é desassociado do quarto (**US-06**).  
 - [x] Moradores removidos não participam de **novos rateios** (**US-07**).  
-- [ ] O **histórico financeiro** do morador é mantido.
+- [x] O **histórico financeiro** do morador é mantido.
 
 ---
 
